@@ -1,0 +1,2 @@
+[2017/07/01 10:35:49 info] tom start attack Doris 
+[2017/07/01 10:35:49 debug] target life left 80 
